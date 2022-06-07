@@ -57,9 +57,9 @@ I am a novice web developer. I took courses on the WayUp educational platform. Y
 
 ## Languages
 
-* Russian (native speaker)
+* Russian 
 * English
-* Belarussian
+* Belarussian (native speaker)
 
 I've been learning English since I was six years old. I have a basic knowledge. I understand 70-80% of the information written in English. I can speak English well. Basic knowledge of all the tenses. I think, that my level of English - B1.
 
